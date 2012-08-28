@@ -1,5 +1,5 @@
 {
-        "name"    : "uglify-js",
+        "name"    : "uglify-js-papandreou",
 
         "description" : "JavaScript parser and compressor/beautifier toolkit",
 
@@ -9,7 +9,12 @@
                 "url"   : "http://mihai.bazon.net/blog"
         },
 
-        "version" : "1.3.3",
+        "maintainer": {
+                "name": "Andreas Lind Petersen",
+                "email": "andreas@one.com"
+        },
+
+        "version" : "1.3.3-patch2",
 
         "main"    : "./uglify-js.js",
 
